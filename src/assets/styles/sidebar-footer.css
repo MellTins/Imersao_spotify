@@ -161,37 +161,39 @@ body{
     border-radius: 20px;
  }
 
- .rodapé{
-  position: fixed;
-  bottom: 0;
-  padding: 20px;
-  width: 100%;
-  background-image: linear-gradient(to right,#9B3FA9,#8160C4,#6581E0,#529AF4);
-  border: 5px solid black;
- }
-.rodapé .titulo {
-    font-weight: 700;
+.teste_premium{
     display: flex;
-    color: #fff;
-    
+    justify-content: space-between;
+    background-image: linear-gradient(to right,#AF2997,#A139A4,#8B53B9,#7273D4,#5B8EEA);
+    padding: 20px;
+    border: 5px solid #000;
 }
-.rodapé .subtitulo{
-    padding-bottom: 14px;
-    color: #fff;
-    
+.titulo a,.subtitulo a{
+    text-decoration: none;
+    color: #fff; 
 }
-.rodapé a {text-decoration: none;}
-
-.rodapé .inscreva-se{
-    margin-left: 50px;
-    border-radius: 50px;
-    padding: 16px;
-    font-weight: 500;
-    font-size: 16px;
-    border: 0;
-    cursor: pointer;
-}
-.rodapé .inscreva-se:hover{
-    box-shadow: 1px 1px 1px #ffffff83;
+.titulo a p {
     font-weight: 700;
+    font-size: large;
+    margin-bottom: 5px;
+   
+}
+.subtitulo a {
+ font-weight: 500;
+}
+.button .teste_premium_button {
+    
+    background-color: #fff;
+    color: #000;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+    text-transform: none;
+    padding: 10px;
+    margin-top: 12px;
+    border: 0;
+    width: 113px;
+   
+    
 }
