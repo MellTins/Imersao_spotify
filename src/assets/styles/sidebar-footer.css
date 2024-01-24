@@ -1,5 +1,6 @@
 body{
    background-color: #000; 
+   font-family: var(--font-dm-sans);
 }
 
 .sidebar{
@@ -39,7 +40,6 @@ body{
     text-decoration: none;
     font-weight: 600;
     font-size: 14px;
-    font-family: "DM Sans", sans-serif;
 }
 
 .library{
@@ -66,8 +66,7 @@ body{
     background-color: transparent;
     border: 0;
     font-size: 14px;
-    font-weight: 700;
-    font-family:"DM Sans", sans-serif; 
+    font-weight: 700; 
     text-align: center;
     text-decoration: none;
     text-transform: none;
@@ -104,7 +103,6 @@ body{
  .section-playlist_content .text{
     padding-bottom: 14px;
     color: #fff;
-    font-family: "DM Sans", sans-serif;
  }
 
  .section-playlist_content .title{
@@ -123,7 +121,6 @@ body{
     border-radius: 20px;
     font-size: 15px;
     font-weight: 500;
-    font-family: "DM Sans", sans-serif;
     text-decoration: none;
     text-transform: none;
     padding: 10px;
@@ -176,13 +173,11 @@ body{
     font-weight: 700;
     display: flex;
     color: #fff;
-    font-family: "DM Sans", sans-serif;
     
 }
 .rodapé .subtitulo{
     padding-bottom: 14px;
     color: #fff;
-    font-family: "DM Sans", sans-serif;
     
 }
 .rodapé a {text-decoration: none;}
