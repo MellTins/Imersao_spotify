@@ -2,6 +2,7 @@
 
 ## Projeto da Imersão
 Bem-vindo ao projeto da Imersão Front-End inspirado no Spotify! Durante essa imersão, vamos construir um site utilizando HTML, CSS, JavaScript e React, com o objetivo de recriar o visual do Spotify.
+- [Você pode ver como ficou o site aqui!](https://melltins.github.io/Imersao_spotify/)
 
 ## Aula 1: Introdução ao HTML e CSS
 Nesta aula, aprendemos os conceitos básicos de HTML e CSS e começamos a criar a estrutura do nosso projeto inspirado no Spotify.
